@@ -1,0 +1,7 @@
+.places__text-two{
+    grid-area: text-two;
+    align-self: start;
+    max-width: 484px;
+    font-size: 18px;
+    line-height: 163%;
+}
