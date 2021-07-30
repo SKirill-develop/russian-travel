@@ -2,11 +2,11 @@
 @import url(__subtitle/cover__subtitle.css);
 @import url(__overlay/cover__overlay.css);
 @import url(__link/cover__link.css);
-
+@import url(__background/cover__background.css);
 
 .cover{
-    margin: 92px 48px;
-    min-height: 740px;
-    background: url(../../../images/cover-trains.jpg);
-    background-size: cover;
+
+    margin-left :48px;
+    margin-right: 48px;
+    
 }
