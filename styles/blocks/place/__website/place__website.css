@@ -2,6 +2,14 @@
 @import url(__url-heading/place__website__url-heading.css);
 
 .place__website{
-    align-self: end;
+    -ms-flex-item-align: end;
+        -ms-grid-row-align: end;
+        align-self: end;
     margin-bottom: 48px;
+}
+
+@media screen and (max-width: 360px) {
+    .place__website {
+        margin-bottom: 0;
+    }
 }

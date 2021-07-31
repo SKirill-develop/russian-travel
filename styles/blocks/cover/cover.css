@@ -2,3 +2,21 @@
 @import url(__subtitle/cover__subtitle.css);
 @import url(__overlay/cover__overlay.css);
 @import url(__link/cover__link.css);
+
+.cover {
+    max-width: 1184px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1280px) {
+    .cover {
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        margin: 0 auto;
+    }
+}

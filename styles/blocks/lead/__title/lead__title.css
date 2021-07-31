@@ -7,13 +7,6 @@
     text-align: center;
 }
 
-@media screen and (max-width: 768px) {
-    .lead__title {
-        margin-left: 24px;
-        margin-right: 24px;
-    }
-}
-
 @media screen and (max-width: 320px) {
     .lead__title {
         max-width: 288px;

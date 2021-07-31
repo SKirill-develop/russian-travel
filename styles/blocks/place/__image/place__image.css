@@ -1,6 +1,9 @@
 .place__image{
+    -ms-grid-row: 2;
+    -ms-grid-row-span: 3;
     grid-row: 2/5;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
     max-width: 460px;
 }
 
@@ -18,7 +21,7 @@
 
 @media screen and (max-width: 360px) {
     .place__image {
-        margin-left: 0;
-        margin-right: 0;
+        max-width: 320px;
+        margin: 32px 0;
     }
 }
