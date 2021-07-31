@@ -1,6 +1,3 @@
-@import url(__logo/header__logo.css);
-@import url(__lang-link/header__lang-link.css);
-
 .header{
     display: -webkit-box;
     display: -ms-flexbox;

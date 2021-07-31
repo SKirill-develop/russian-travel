@@ -1,8 +1,3 @@
-@import url(__title/place__title.css);
-@import url(__image/place__image.css);
-@import url(__paragraph/place__paragraph.css);
-@import url(__website/place__website.css);
-
 .place{
     display: -ms-grid;
     display: grid;

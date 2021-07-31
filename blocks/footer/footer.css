@@ -1,7 +1,3 @@
-@import url(__menu/footer__menu.css);
-@import url(__menu/__item/footer__menu__item.css);
-@import url(__autor/footer__autor.css);
-
 .footer{
     display: -webkit-box;
     display: -ms-flexbox;

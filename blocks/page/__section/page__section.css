@@ -1,6 +1,3 @@
-@import url(__width_large/page__section__width_large.css);
-@import url(__width_small/page__section__width_small.css);
-
 .page__section{
     margin-top: 92px;
 }
