@@ -1,11 +1,5 @@
 .footer__menu__item{
-    text-decoration: none;
-    color: #FFFFFF;
     margin-right: 18px;
-}
-
-.footer__menu__item:hover{
-    opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {
