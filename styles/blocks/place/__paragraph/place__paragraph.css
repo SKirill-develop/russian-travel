@@ -1,0 +1,11 @@
+.place__paragraph {
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 163%;
+    font-weight: 400;
+    align-self: start;
+}
+
+.place__paragraph:first-of-type {
+    margin-bottom: 26px;
+}

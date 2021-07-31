@@ -2,8 +2,9 @@
 
 .photo-grid{
     display: grid;
-    margin-left: 48px;
-    margin-right: 48px;
-    grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+    max-width: 1184px;
+    grid-template-columns: repeat(auto-fill, minmax(284px, 1fr));
+    justify-items: center;
+    align-items: center;
     gap: 16px;
 }

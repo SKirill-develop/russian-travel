@@ -1,7 +1,7 @@
-.places__title{
-    grid-area: title;
+.place__title{
     margin: 0;
-    align-self: center;
+    margin-bottom: 48px;
+    align-self: end;
     max-width: 460px;
     max-height: 152px;
     font-style: normal;

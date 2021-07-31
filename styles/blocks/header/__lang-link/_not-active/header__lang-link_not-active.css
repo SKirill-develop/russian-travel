@@ -1,3 +1,5 @@
 .header__lang-link_not-active{
     margin-top: 0;
+    color: #FFFFFF;
+    text-decoration: none;
 }

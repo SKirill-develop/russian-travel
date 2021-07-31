@@ -13,7 +13,7 @@
   url(Inter-Bold.woff2) format('woof2');
   font-family: 'Inter';
   font-weight: 700;
-  font-style: bold;
+  font-style: normal;
   }
 
   @font-face {
@@ -22,4 +22,5 @@
     url(Inter-Black.woff2) format('woof2');
     font-family: 'Inter';
     font-weight: 900;
+    font-style: normal;
     }

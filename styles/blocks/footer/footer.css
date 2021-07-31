@@ -2,8 +2,6 @@
 @import url(__menu/__item/footer__menu__item.css);
 
 .footer{
-    margin-left: 48px;
-    margin-right: 48px;
     display: flex;
     justify-content: space-between;
     align-items: center;
