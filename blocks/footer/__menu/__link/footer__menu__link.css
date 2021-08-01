@@ -4,5 +4,6 @@
 }
 
 .footer__menu__link:hover{
+    transition-duration: .5s;
     opacity: 0.8;
 }
