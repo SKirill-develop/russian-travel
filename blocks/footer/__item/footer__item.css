@@ -1,9 +1,9 @@
-.footer__menu__item{
+.footer__item{
     margin-right: 18px;
 }
 
-@media screen and (max-width: 425px) {
-    .footer__menu__item {
+@media screen and (max-width: 767px) {
+    .footer__item {
         font-size: 24px;
         line-height: 24px;
         margin-bottom: 32px;

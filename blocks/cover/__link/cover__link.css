@@ -25,6 +25,7 @@
 .cover__link:before {
     position: absolute;
     content: '';
+    transition-duration: .5s;
     background-color: #2A2C2F;
     opacity: 0.3;
     z-index: 1;
@@ -36,15 +37,6 @@
 
 .cover__link:hover:before {
     opacity: 0.8;
-    content: '';
-    transition-duration: .5s;
-    background-color: #2A2C2F;
-    z-index: 1;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
 }
 
 @media screen and (max-width: 1024px) {

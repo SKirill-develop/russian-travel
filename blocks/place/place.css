@@ -7,6 +7,8 @@
     margin-bottom: 80px;
     -ms-grid-columns: 460px 40px 1fr;
     grid-template-columns: 460px 1fr;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media screen and (max-width: 1024px) {
@@ -27,7 +29,7 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 760px) {
     .place {
         display: -webkit-box;
         display: -ms-flexbox;
@@ -39,10 +41,7 @@
         -webkit-box-pack: center;
             -ms-flex-pack: center;
                 justify-content: center;
-        max-width: 380px;
         margin-top: 49px;
         max-width: 320px;
-        margin-left: 0px;
-        margin-right: 0px;
     }
 }

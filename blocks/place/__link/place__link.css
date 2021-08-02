@@ -1,4 +1,4 @@
-.place__website__link{
+.place__link{
     font-size: 18px;
     line-height: 22px;
     -webkit-text-decoration-line: underline;
@@ -6,7 +6,7 @@
     color: #FFFFFF;
 }
 
-.place__website__link:hover{
+.place__link:hover{
     transition-duration: .5s;
     opacity: 0.8;
 }
