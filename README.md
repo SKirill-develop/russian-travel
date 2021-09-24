@@ -10,4 +10,4 @@
 
 **GitHub Pages**
 
-https://kirill2905.github.io/russian-travel/
+https://skirill-develop.github.io/russian-travel/
